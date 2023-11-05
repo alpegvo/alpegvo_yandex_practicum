@@ -10,7 +10,8 @@ Python-проекты были выполнены в **Jupyter Notebook**, а SQ
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 </p>
 
-1. **alpegvo_yp/basic_sql** - 23 задачи базового уровня SQL (срезы, аггрегирующие функции, группировка и сортировка данных, join-ы, подзапросы и общие табличные выражения). База данных, к которой выполняются запросы, создана на основе датасета Startup Investments с Kaggle.
+1. **alpegvo_yp/basic_sql** - решены 23 задачи базового уровня SQL (срезы, аггрегирующие функции, группировка и сортировка данных, join-ы, подзапросы и общие табличные выражения). База данных, к которой выполняются запросы, создана на основе датасета Startup Investments с Kaggle.
+2. **alpegvo_yp/advanced_sql** - решено 20 задач продвинутого уровня SQL (агрегирующие оконные функции, оконные функции ранжирования и смещения). База данных информация о вопросах и ответах на StackOverflow.
 
 <p>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25">
