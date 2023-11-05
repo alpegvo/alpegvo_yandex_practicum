@@ -1,5 +1,6 @@
 # alpegvo_yp
-![Practicum](https://github.com/alpegvo/alpegvo_yp/assets/136235473/001114d1-0553-4320-bc9f-ef20ab8e1e08)
+![Practicum](https://github.com/alpegvo/alpegvo_yp/assets/136235473/f6365ca6-03cb-4eb1-b603-022b1733b3c4)
+
 
 В репозитории находятся папки с файлами проектов по анализу данных с использованием средств **PostgreSQL** и **Python**. Проекты выполнялись в рамках курса **"Аналитик Данных"** от **Яндекс.Практикума.**
 Python-проекты были выполнены в **Jupyter Notebook**, а SQL-проекты - на учебной платформе Практикума. 
