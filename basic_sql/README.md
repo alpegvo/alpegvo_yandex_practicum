@@ -9,7 +9,7 @@
 
 **ER-диаграмма базы данных:**
 
-![ER-diagramm](https://github.com/alpegvo/alpegvo_yp/assets/136235473/29236595-8664-4212-9811-be5dcaf7b571)
+![ER-diagramm](https://github.com/alpegvo/alpegvo_yp/assets/136235473/b7e2b0a1-ef1f-4e59-8984-ce7a39e05fbb)
 
 **Описание таблиц и полей базы данных:**
 
