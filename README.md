@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 </p>
 
-| Название проекта |Описание|Стек|
+| Название проекта |Описание проекта|Инструменты|
 |:----------------:|:-------|:---|
 |<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/music">music</a>| Сопоставляем музыкальные предпочтения и особенности активности пользователей музыкального сервиса, живущих в Москве и в Петербурге. | Python, Pandas |
 |<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/credit">credit</a>| Оцениваем влияние характеристик заемщиков - количества детей, семейного положения, уровня дохода, а также цели, на которую берется кредит, на вероятность возврата кредита в срок. | Python, Pandas|
