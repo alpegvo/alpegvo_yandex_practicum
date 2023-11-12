@@ -1,21 +1,26 @@
 # alpegvo_yp
-![Practicum](https://github.com/alpegvo/alpegvo_yp/assets/136235473/f6365ca6-03cb-4eb1-b603-022b1733b3c4)
 
-В репозитории находятся папки с файлами проектов по анализу данных с использованием средств **PostgreSQL** и **Python**. Проекты выполнялись в рамках курса **"Аналитик Данных"** от **Яндекс.Практикума.**
-Python-проекты были выполнены в **Jupyter Notebook**, а SQL-проекты - на учебной платформе Практикума. 
-
-Порядок, в котором перечислены проекты отражает процесс обучения - от простого к сложному.
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
-</p>
-
-1. **alpegvo_yp/basic_sql** - решены 23 задачи базового уровня SQL (срезы, агрегирующие функции, группировка и сортировка данных, join-ы, подзапросы и общие табличные выражения). База данных, к которой выполняются запросы, создана на основе датасета Startup Investments с Kaggle.
-2. **alpegvo_yp/advanced_sql** - решено 20 задач продвинутого уровня SQL (агрегирующие оконные функции, оконные функции ранжирования и смещения). База данных - информация о вопросах и ответах на StackOverflow.
+В репозитории находятся проекты по анализу данных с использованием **Python (Jupyter Notebook)** и **PostgreSQL**. 
 
 <p>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 </p>
 
+| Название проекта |Описание|Стек|
+|:----------------:|:-------|:---|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/music">music</a>| Сопоставляем музыкальные предпочтения и особенности активности пользователей музыкального сервиса, живущих в Москве и в Петербурге. | Python, Pandas |
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/credit">credit</a>| Оцениваем влияние характеристик заемщиков - количества детей, семейного положения, уровня дохода, а также цели, на которую берется кредит, на вероятность возврата кредита в срок. | Python, Pandas|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/real_estate">real estate</a>| Изучаем большой датасет объявлений о продаже квартир и оцениваем какие параметры квартир и объявлений больше всего влияют на стоимость недвижимости. |Python, Pandas, Numpy, Matplotlib|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/scooters">scooters</a>| Анализируем данные о пользователях приложения для проката самокатов и их поездках за один календарный год. Проверяем гипотезы о различиях между клиентами, использующими приложение по подписке и без нее. |Python, Pandas, Numpy, Matplotlib, Scipy, Math|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/games">games</a>| Исследуем рынок компьютерных игр 1980-2016 годов. Отвечаем на вопросы о том, сколько игр и на каких игровых платформах выходило в разные годы. Каково время жизни игровых платформ? Какие жанры игр самые популярные? На продажу игр каких жанров и платформ лучше сделать ставку в будущем году? |Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/marketing">marketing</a>| Изучаем данные о посещениях и покупках пользователей развлекательного приложения, а также данные о затратах на рекламу. Рассчитываем показатели Conversion, Retention Rate, Lifetime Value (LTV), Customer Acqusition Cost (CAC), Return on Investment (ROI) в разрезе когорт. |Python, Pandas, Numpy, Matplotlib, Seaborn|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/bussines_decisions">bussines decisions</a>|Выполняем приоритизацию нескольких бизнес-гипотез во фреймворках WSJF, ICE и RICE, и анализируем результаты A/B-теста для интернет-магазина. |Python, Pandas, Scipy, Numpy, Matplotlib, Seaborn|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/event_based_analytics">event-based analytics</a>|На основе лог-файла, содержащего информацию о действиях, совершенных пользователями в приложении для заказа продуктов питания, строим воронку событий и определяем этапы, на которых отсеивается больше всего потенциальных покупателей. Анализируем результаты А/А/B-теста: оцениваем, влияет ли использование нового шрифта в приложении на показатели конверсии пользователей на каждом этапе воронки событий?|Python, Pandas, Statsmodels, Numpy, Matplotlib, Seaborn|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/basic_sql">basic sql</a>| Пишем SQL-запросы базового уровня. Применяем срезы, агрегирующие функции, группировку и сортировка данных, join-ы, подзапросы и общие табличные выражения. База данных, к которой выполняются запросы, создана на основе датасета Startup Investments с Kaggle|PostgreSQL|
+|<a href="https://github.com/alpegvo/alpegvo_yp/tree/main/advanced_sql">advanced sql</a>| Пишем запросы продвинутого уровня SQL (агрегирующие оконные функции, оконные функции ранжирования и смещения, CTE). База данных - информация о вопросах и ответах на StackOverflow |PostgreSQL|
+
+<!--
+Python:
 1. **alpegvo_yp/music** - проект, в котором сопоставляются музыкальные предпочтения и особенности активности пользователей музыкального сервиса, живущих в Москве и в Петербурге
 2. **alpegvo_yp/credit** -  проект, посвященный анализу влияния некоторых характеристик заемщиков (количества детей, семейного положения, уровня дохода), а также цели, на которую берется кредит, на вероятность возврата кредита.
 3. **alpegvo_yp/real_estate** - анализ большого датасета объявлений о продаже квартир в Санкт-Петербурге и Ленинградской области.
@@ -24,3 +29,8 @@ Python-проекты были выполнены в **Jupyter Notebook**, а SQ
 6. **alpegvo_yp/marketing** - в проекте проанализированы данные о посещениях и покупках пользователей развлекательного приложения, а также данные о затратах на рекламу. Выполнены расчеты таких показателей как Conversion, Retention Rate, Lifetime Value (LTV), Customer Acqusition Cost (CAC), Return on Investment (ROI).
 7. **alpegvo_yp/bussines_decisions** - приоритизация бизнес-гипотез и анализ A/B-теста для интернет-магазина.
 8. **alpegvo/event_based_analytics** - на основе лог-файла, содержащего информацию о действиях, совершенных пользователями в приложении для заказа продуктов питания, построена воронка событий и определены этапы, на которых отсеивается больше всего потенциальных покупателей. Выполнен анализ результатов А/А/B-теста: оценено влияние использования нового шрифта в приложении на показатели конверсии пользователей на каждом этапе воронки событий.
+
+SQL:
+1. **alpegvo_yp/basic_sql** - решены 23 задачи базового уровня SQL (срезы, агрегирующие функции, группировка и сортировка данных, join-ы, подзапросы и общие табличные выражения). База данных, к которой выполняются запросы, создана на основе датасета Startup Investments с Kaggle.
+2. **alpegvo_yp/advanced_sql** - решено 20 задач продвинутого уровня SQL (агрегирующие оконные функции, оконные функции ранжирования и смещения). База данных - информация о вопросах и ответах на StackOverflow.
+-->
