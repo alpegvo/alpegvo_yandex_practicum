@@ -3,7 +3,7 @@
 В репозитории находятся проекты по анализу данных с использованием **Python (Jupyter Notebook)**, **PostgreSQL** и **Tableau**, выполненные мной при прохождении курса "Аналитик Данных" от Яндекс Практикума.
 
 <p>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="25">
 </p>
 
 | Название проекта |Описание проекта|Инструменты|
